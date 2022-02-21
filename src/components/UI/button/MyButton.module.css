@@ -1,0 +1,11 @@
+.btn {
+    padding: 5px 15px;
+    color: coral;
+    font-size: 16px;
+    background: transparent;
+    border: 1x solid coral;
+    cursor: pointer;
+}
+.btn:hover {
+    outline: 2px solid coral;
+}
